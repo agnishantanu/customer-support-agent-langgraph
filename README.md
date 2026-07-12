@@ -46,3 +46,13 @@ python -c "from app.graphs.workflow_graph import run_support_workflow; print(run
 ```bash
 python -m pytest -q
 ```
+
+## Author
+
+**Shantanu Agnihotri**
+
+---
+
+## License
+
+This project is licensed under the MIT License. 
