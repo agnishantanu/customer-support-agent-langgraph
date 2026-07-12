@@ -1,4 +1,4 @@
-# IBM Agentic AI Assignment — Customer Support Agent
+# Agentic AI Project — Customer Support Agent
 
 This project implements a LangGraph-powered customer support assistant for ABC Technologies with intent classification, conditional routing, department agents, RAG over a knowledge base, SQLite memory, human approval, supervisor review, a FastAPI backend, and a Streamlit demo UI.
 
